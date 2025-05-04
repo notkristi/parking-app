@@ -1,5 +1,5 @@
 How to Use: 
-Login As Guest (see guest rights) -----> can only access contact us page and Costs Page(still demo)
+1)Login As Guest (see guest rights) -----> can only access contact us page and Costs Page(still demo)
 2) Register (use real email account) ----> will need for phpmailer later
 3) Login with Registered User
 4) Add your vehicle details (demo) ----> you will be able to add the details while booking just isnt done yet
